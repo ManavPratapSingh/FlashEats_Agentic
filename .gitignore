@@ -1,0 +1,23 @@
+# Instructor-only materials (do not distribute)
+instructor/
+README_FOR_INSTRUCTOR.md
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+.coverage
+htmlcov/
+
+# Environment / secrets
+.env
+.env.*
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
